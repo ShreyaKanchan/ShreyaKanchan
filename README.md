@@ -1,29 +1,45 @@
-# Hi, I'm Shreya Kanchan 👋
+<div align="center">
 
-ECS student at SIES GST | Building tech projects, leading initiatives, and creating solutions that make a difference.
+# Shreya Kanchan 👋
 
-## What I’m building
+**ECS student · builder · blockchain & AI enthusiast**
 
-- **Blockchain prototypes** — small, readable projects exploring wallets, token accounting, Merkle proofs, governance, NFTs, payment streams, and event indexing.
-- **Accessible product experiences** — interfaces that make information easier to discover through responsive design, multilingual support, and voice-oriented navigation.
+I turn interesting ideas into clear, testable products—from blockchain prototypes to accessible web experiences.
 
-## Tools and interests
+<a href="https://shreyakanchan.github.io"><img src="https://img.shields.io/badge/Website-shreyakanchan.github.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/shreya-kanchan-79850631b/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/ShreyaKanchan"><img src="https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-`React` · `TypeScript` · `Node.js` · `Express` · `SQLite` · `REST APIs` · `JWT` · `AI integration` · `Solidity` · `Python`
+</div>
 
-## Highlights
+## What I build
 
-- Interested in AI, fintech, blockchain systems, accessibility, and technology with measurable social value.
-- I like turning an idea into a clear, testable prototype and documenting what would be required for production.
+- 🔗 **Blockchain systems** — wallets, token accounting, Merkle proofs, governance, NFTs, payment streams, and event indexing.
+- 🧩 **Useful product experiences** — responsive, accessible interfaces with thoughtful information architecture.
+- 🧪 **Learning in public** — small experiments with readable code, tests, and production-minded documentation.
 
-## Featured repositories
+## Selected builds
 
-- [ChainForge](https://github.com/ShreyaKanchan/chainforge) — educational proof-of-work chain
-- [BlockLens](https://github.com/ShreyaKanchan/blocklens) — transfer indexing model
-- [ProofPass](https://github.com/ShreyaKanchan/proofpass) — credential verification prototype
+| Project | Focus |
+| --- | --- |
+| [⛓️ ChainForge](https://github.com/ShreyaKanchan/chainforge) | Educational proof-of-work blockchain |
+| [🔎 BlockLens](https://github.com/ShreyaKanchan/blocklens) | Wallet activity and transfer indexing |
+| [✅ ProofPass](https://github.com/ShreyaKanchan/proofpass) | Verifiable credential prototype |
+| [🪙 TokenLedger](https://github.com/ShreyaKanchan/token-ledger) | Solidity token accounting and tests |
 
-## Connect
+## Toolkit
 
-[LinkedIn](https://www.linkedin.com/in/shreya-kanchan-79850631b/) · [GitHub](https://github.com/ShreyaKanchan)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-> This profile README describes current projects and learning prototypes. Production readiness, audits, and deployment status are documented in each repository.
+## GitHub snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaKanchan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKanchan&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages">
+</div>
+
+<div align="center">
+
+✨ Building at the intersection of **technology, accessibility, and measurable social value**.
+
+</div>
