@@ -1,6 +1,6 @@
 # Hi, I'm Shreya Kanchan 👋
 
-I’m a student developer at **CSI SIESGST** who enjoys building practical software at the intersection of technology, accessibility, and social impact.
+I’m a student developer at CSI SIESGST
 
 ## What I’m building
 
