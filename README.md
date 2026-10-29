@@ -1,6 +1,6 @@
 # Hi, I'm Shreya Kanchan 👋
 
-I’m a student developer at CSI SIESGST
+I’m a student developer at SIES GST
 
 ## What I’m building
 
