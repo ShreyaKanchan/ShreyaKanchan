@@ -34,8 +34,9 @@ I turn interesting ideas into clear, testable products—from blockchain prototy
 ## GitHub snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaKanchan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKanchan&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages">
+
+![Followers](https://img.shields.io/github/followers/ShreyaKanchan?style=flat-square&label=followers&logo=github) ![Public repositories](https://img.shields.io/github/repos/ShreyaKanchan?style=flat-square&label=public%20repos&logo=github) ![Total stars](https://img.shields.io/github/stars/ShreyaKanchan?style=flat-square&label=total%20stars&logo=github) ![Contributions](https://img.shields.io/github/commit-activity/y/ShreyaKanchan?style=flat-square&label=contributions&logo=github)
+
 </div>
 
 <div align="center">
