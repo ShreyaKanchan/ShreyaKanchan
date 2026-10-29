@@ -27,20 +27,9 @@ I turn interesting ideas into clear, testable products—from blockchain prototy
 | [✅ ProofPass](https://github.com/ShreyaKanchan/proofpass) | Verifiable credential prototype |
 | [🪙 TokenLedger](https://github.com/ShreyaKanchan/token-ledger) | Solidity token accounting and tests |
 
+![Followers](https://img.shields.io/github/followers/ShreyaKanchan?style=flat-square&label=followers&logo=github) ![Total stars](https://img.shields.io/github/stars/ShreyaKanchan?style=flat-square&label=total%20stars&logo=github)
+
 ## Toolkit
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## GitHub snapshot
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/ShreyaKanchan?style=flat-square&label=followers&logo=github) ![Total stars](https://img.shields.io/github/stars/ShreyaKanchan?style=flat-square&label=total%20stars&logo=github)
-
-</div>
-
-<div align="center">
-
-✨ Building at the intersection of **technology, accessibility, and measurable social value**.
-
-</div>
