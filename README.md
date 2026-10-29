@@ -18,17 +18,6 @@ I turn interesting ideas into clear, testable products—from blockchain prototy
 - 🧩 **Useful product experiences** — responsive, accessible interfaces with thoughtful information architecture.
 - 🧪 **Learning in public** — small experiments with readable code, tests, and production-minded documentation.
 
-## Selected builds
-
-| Project | Focus |
-| --- | --- |
-| [⛓️ ChainForge](https://github.com/ShreyaKanchan/chainforge) | Educational proof-of-work blockchain |
-| [🔎 BlockLens](https://github.com/ShreyaKanchan/blocklens) | Wallet activity and transfer indexing |
-| [✅ ProofPass](https://github.com/ShreyaKanchan/proofpass) | Verifiable credential prototype |
-| [🪙 TokenLedger](https://github.com/ShreyaKanchan/token-ledger) | Solidity token accounting and tests |
-
-![Followers](https://img.shields.io/github/followers/ShreyaKanchan?style=flat-square&label=followers&logo=github) ![Total stars](https://img.shields.io/github/stars/ShreyaKanchan?style=flat-square&label=total%20stars&logo=github)
-
 ## Toolkit
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
