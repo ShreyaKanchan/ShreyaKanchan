@@ -1,6 +1,6 @@
 # Hi, I'm Shreya Kanchan 👋
 
-I’m a student developer at SIES GST
+ECS student at SIES GST | Building tech projects, leading initiatives, and creating solutions that make a difference.
 
 ## What I’m building
 
