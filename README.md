@@ -35,7 +35,7 @@ I turn interesting ideas into clear, testable products—from blockchain prototy
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/ShreyaKanchan?style=flat-square&label=followers&logo=github) ![Public repositories](https://img.shields.io/github/repos/ShreyaKanchan?style=flat-square&label=public%20repos&logo=github) ![Total stars](https://img.shields.io/github/stars/ShreyaKanchan?style=flat-square&label=total%20stars&logo=github) ![Contributions](https://img.shields.io/github/commit-activity/y/ShreyaKanchan?style=flat-square&label=contributions&logo=github)
+![Followers](https://img.shields.io/github/followers/ShreyaKanchan?style=flat-square&label=followers&logo=github) ![Total stars](https://img.shields.io/github/stars/ShreyaKanchan?style=flat-square&label=total%20stars&logo=github)
 
 </div>
 
